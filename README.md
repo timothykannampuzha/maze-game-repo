@@ -1,4 +1,4 @@
-#How to launch the game in your computer
+# How to launch the game in your computer
 
 1. Download the repository as a .zip file:
     * Find the green "Code" button on the repository's main page. 
