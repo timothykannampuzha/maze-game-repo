@@ -13,4 +13,3 @@
     * Double-click the .exe file to launch the game.  
 
 
-Control the player using WASD or the arrow keys
