@@ -43,5 +43,5 @@
 
 # Flow chart for Python Maze and Raider of the Lost Gems
 
-![Flow Chart](https://github.com/user-attachments/assets/a48ff471-11bd-480c-acfa-28c2dcae1a4f)
+![Flow Chart - Maze Game](https://github.com/user-attachments/assets/0fc09788-9a5b-4433-bbe2-ea125d16224b)
 
