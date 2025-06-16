@@ -1,6 +1,6 @@
 # Python Maze and Raiders of lost gems!
 
-"Python Maze and Raiders of Lost Gems" is an exciting adventure game where you step into the shoes of a gem-hunting hero trapped inside a twisting 2D labyrinth. Your mission? Dodge smart enemies, outwit deadly traps, and collect shimmering treasures hidden deep within the maze walls. With every gem you grab, the stakes get higher and your score increases. Can you escape with all the gems and live to tell the tale, or will the maze claim you forever? Gear up, press play, and let the raid begin! 🏆💎🌀
+"Python Maze and Raiders of lost gems" is an exciting adventure game where you step into the shoes of a gem-hunting hero trapped inside a twisting 2D labyrinth. Your mission? Dodge smart enemies, outwit deadly traps, and collect shimmering treasures hidden deep within the maze walls. With every gem you grab, the stakes get higher and your score increases. Can you escape with all the gems and live to tell the tale, or will the maze claim you forever? Gear up, press play, and let the raid begin! 🏆💎🌀
 
 # How to launch the game in your computer
 
@@ -17,7 +17,7 @@
     * Double-click the .exe file to launch the game.  
 
 
-# Pseudocode for Python Maze and Raiders of the Lost Gems
+# Pseudocode for Python Maze and Raiders of lost gems
 
 1. Import required modules: turtle, pygame, random, math, etc.
 2. Initialize Pygame for sound and load sound effects.
@@ -41,7 +41,7 @@
 20. Finish game when player wins or loses; show final score in the console.
 
 
-# Flow chart for Python Maze and Raider of the Lost Gems
+# Flow chart for Python Maze and Raider of lost gems
 ![Flow Chart - Maze Game](https://github.com/user-attachments/assets/995058f0-7bb7-479f-b99e-42e3b2e0adbc)
 
 
