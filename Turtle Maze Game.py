@@ -263,14 +263,13 @@ def move_enemies():
     for enemy in enemies:
         enemy.move()
     if not game_over:
-        screen.ontimer(move_enemies,450)
+        screen.ontimer(move_enemies,280)
 
 pressed_keys = set()
 # A set to track which keys are currently being pressed.
 # This allows for smooth, continuous movement when a key is held down.
 
-# --- Key Press and Release Handlers ---
-
+#Arrow keys
 def press_up():
     pressed_keys.add("Up")
 # Adds "Up" to the set when the Up arrow is pressed.
@@ -303,8 +302,7 @@ def release_right():
     pressed_keys.discard("Right")
 # Removes "Right" from the set when the Right arrow is released.
 
-# --- WASD keys (alternative controls) ---
-
+#WASD Keys
 def press_w():
     pressed_keys.add("w")
 # Adds "w" (move up) to the set when pressed.
@@ -376,9 +374,10 @@ screen.onkeypress(press_s,"s")
 screen.onkeyrelease(release_s,"s")
 screen.onkeypress(press_d,"d")
 screen.onkeyrelease(release_d,"d")
+#This is for the movement. Both WASD & Arrow keys work.
 
 game_loop()
 move_enemies()
 continuous_move()
-
+#Loops to play the game
 turtle.done()
