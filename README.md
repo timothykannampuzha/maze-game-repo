@@ -2,7 +2,7 @@
 
 "Python Maze and Raiders of the Lost Gems" is an exciting adventure game where you step into the shoes of a gem-hunting hero trapped inside a twisting 2D labyrinth. Your mission? Dodge smart enemies and collect shimmering treasures hidden deep within the maze walls. With every gem you grab, the stakes get higher and your score increases. Can you escape with all the gems and live to tell the tale, or will the maze claim you forever? Gear up, press play, and let the raid begin! 🏆💎🌀
 
-![Python Maze and Raiders of the Lost Gems](https://github.com/user-attachments/assets/c66d1a58-eeef-47d8-956d-52a72d39331b)
+![Python Maze Game](https://github.com/user-attachments/assets/41b1b957-6b7f-41e8-903e-29f4ae640567)
 
 
 # How to launch the game in your computer
